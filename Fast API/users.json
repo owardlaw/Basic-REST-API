@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "userId": 0,
+            "username": "Fred",
+            "date": "2022-07-22"
+        },
+        {
+            "userId": 1,
+            "username": "Ben",
+            "date": "2022-07-22"
+        },
+        {
+            "userId": 2,
+            "username": "Sarah",
+            "date": "2022-07-22"
+        },
+        {
+            "userId": 3,
+            "username": "Saerkhehnr",
+            "date": "2022-07-22"
+        },
+        {
+            "userId": 4,
+            "username": "tommy",
+            "date": "2022-07-22"
+        },
+        {
+            "userId": 5,
+            "username": "kjhjkhkhkj",
+            "date": "2022-07-22"
+        }
+    ]
+}
